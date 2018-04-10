@@ -1,0 +1,15 @@
+Package: com.zeros97.swipehome
+Version: 2.3
+Architecture: iphoneos-arm
+Maintainer: Hungzeros97 <hungzeros97@gmail.com>
+Section: Utilities
+Description: swipe up home card to kill apps - swipe up home card to kill apps - swipe up home card to kill apps
+Pre-Depends: firmware (>= 7.0)
+Depends: mobilesubstrate
+Author: Hungzeros97 <hungzeros97@gmail.com>
+Name: swipehome
+MD5Sum: 3C0CCE9BD42CC8813989F97DC8FF3E0D
+SHA1: 910786085661B88EAF4BAA9A5AF5A0E3D833548E
+SHA256: 7D8E7677D06E75EDEAF518260478349B11E13E59DCE95840D282F2B796CFF261
+Size: 56510
+Filename: /debs/swipehome.deb

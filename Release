@@ -1,0 +1,11 @@
+Origin: Hungzeros97's Repo
+Label: Hungzeros97
+Suite: stable
+Version: 1.0
+Codename: zeros97
+Architectures: iphoneos-arm
+Components: main
+Description: Nguồn thuộc quyền sở hữu của Hungzeros97.
+MD5Sum:
+ 288A985B51F89BE8EFB9F0D5E7DE68DC 578 Packages
+ A44CAA9DAF3A3E2E65064532E39F3786 403 Packages.bz2
